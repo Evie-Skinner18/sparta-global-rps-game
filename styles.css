@@ -1,0 +1,11 @@
+body {
+  background-color: gold;
+}
+
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  color: indigo;
+}
